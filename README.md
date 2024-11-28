@@ -1,7 +1,7 @@
 # 👩🏻‍💻 Eville Vitória
 
 
-Meu nome é Eville Vitória, tenho 19 anos e concluí o ensino médio em 2022. Atualmente, estou cursando o 4º período de Engenharia de Software no Centro Universitário Católica do Tocantins. Sou apaixonada por desenvolvimento de sistemas e estou constantemente buscando aprender e aprimorar minhas habilidades nessa área.
+Meu nome é Eville Vitória, tenho 19 anos e concluí o ensino médio em 2022. Atualmente, estou cursando o 4º período de Engenharia de Software no Centro Universitário Católica do Tocantins. Sou apaixonada por desenvolvimento de software e estou constantemente buscando aprender e aprimorar minhas habilidades nessa área.
 
 ---
 
